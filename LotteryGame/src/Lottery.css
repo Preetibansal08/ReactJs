@@ -1,0 +1,10 @@
+/* .ticket{
+    border:solid black 2px;
+    border-radius: 14px;
+} */
+
+.btn{
+    margin-top: 14px;
+    background-color: pink;
+    border: black solid 2px;
+}

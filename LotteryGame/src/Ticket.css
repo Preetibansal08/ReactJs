@@ -1,0 +1,11 @@
+.Ticket{
+    border: solid black 2px;
+    border-radius: 14px;
+    padding: 8px;
+    width:500px;
+
+}
+p{
+    font-size: 20px;
+    
+}

@@ -1,0 +1,15 @@
+.form{
+    border:black solid 2px;
+    height: 250px;
+    width: 200px;
+    padding: 25px;
+}
+
+button{
+    background-color: pink;
+    color:black;
+}
+
+input , textarea{
+    border: black solid 2px;
+}

@@ -1,0 +1,11 @@
+form {
+  
+  margin:auto;
+  margin-top: 130px;
+  border: solid 2px black;
+  padding:20px;
+  width: 200px;
+  height: 200px;
+  align-items: center;
+}
+
